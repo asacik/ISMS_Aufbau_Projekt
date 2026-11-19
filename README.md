@@ -15,11 +15,19 @@ Eine praxisorientierte Fallstudie zur **systematischen Identifikation, Bewertung
 
 ## Ziel des Projekts
 
-Ziel dieses Projekts ist die Durchführung einer praxisorientierten ISMS-Risikoanalyse für die fiktive Noventis Group GmbH auf Grundlage der ISO/IEC 27001:2022 unter Berücksichtigung relevanter Datenschutzanforderungen der DSGVO. 
+Ziel dieses Projekts ist die Entwicklung einer nachvollziehbaren Grundlage für den Aufbau eines Informationssicherheitsmanagementsystems (ISMS) für die fiktive Noventis Group GmbH auf Basis der ISO/IEC 27001:2022.
 
-Im Mittelpunkt stehen die Identifikation und Bewertung von Informationssicherheitsrisiken, die Ableitung geeigneter Sicherheitsmaßnahmen sowie die strukturierte Verknüpfung von Informationssicherheit und Datenschutz. Das Projekt dient als akademische Fallstudie und zur praktischen Vertiefung von Kenntnissen im Informationssicherheitsmanagement. 
+Im Rahmen der Fallstudie beschäftige ich mich mit dem Unternehmenskontext, der Erfassung und Bewertung schützenswerter Informationswerte sowie der Entwicklung eines strukturierten Risikomanagementprozesses. Dazu erstelle ich unter anderem ein Asset Register, ein Verzeichnis von Verarbeitungstätigkeiten (VVT), eine eigene Risikobewertungsmethodik und ein darauf aufbauendes Risikoregister.
 
-[Vollständiger_Projektauftrag](docs/00_projektauftrag.md)
+Auf Grundlage der identifizierten und bewerteten Risiken leite ich geeignete technische und organisatorische Maßnahmen zur Risikobehandlung ab. Dabei berücksichtige ich auch relevante Datenschutzanforderungen der DSGVO und deren Zusammenhang mit der Informationssicherheit.
+
+Das Projekt orientiert sich insbesondere an der ISO/IEC 27001:2022, der ISO/IEC 27005:2022 und der DSGVO. Ziel ist es, die einzelnen Arbeitsschritte, Bewertungsentscheidungen und Ergebnisse nachvollziehbar zu dokumentieren und miteinander zu verknüpfen.
+
+Die gesamte Vorgehensweise und die zugehörigen Projektergebnisse dokumentiere ich schrittweise in diesem Repository.
+
+**Hinweis:** Das Projekt ist eine fiktive Fallstudie zu Lern- und Portfoliozwecken. Es stellt weder eine vollständige operative ISMS-Einführung noch ein formelles Audit oder einen Zertifizierungsnachweis dar.
+
+[Vollständiger Projektauftrag](docs/00_projektauftrag.md)
 
 ---
 
